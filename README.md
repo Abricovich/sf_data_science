@@ -5,7 +5,7 @@ From the [SkillFactory Data Science course] (https://skilfactory.ru/data-scienti
 ## Проекты
 
 * [Проект 0. Игра: угадай число] (https://github.com/Abricovich/sf_data_science/tree/main/project_0)
-* Проект 1. ____()
-* Проект 2. ____()
+* [Проект 1. ____()]
+* [Проект 2. ____()]
 
 ## Ссылки на резюме
