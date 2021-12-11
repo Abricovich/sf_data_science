@@ -2,20 +2,20 @@
 
 ## Оглавление
 
-[1. Описание проекта] (https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md #Описание проекта)
+[1. Описание проекта](https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md#описание_проекта)
 
-[2. Какой кейс решаем?] (https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md #Какой кейс решаем)
+[2. Какой кейс решаем?](https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md#какой_кейс_решаем?)
 
-[3. Этапы работы над проектом] (https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md #Этапы работы над проектом)
+[3. Этапы работы над проектом](https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md#этапы_работы_над_проектом)
 
-[4. Результаты и Выводы] (https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md #Результаты и Выводы)
+[4. Результаты и выводы](https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md#результаты_и_выводы)
 
 
 
 ### 1. Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток
 
-:arrow_up:[к оглавлению] (https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md #Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md#оглавление)
 
 ### 2. Какой кейс решаем?
 Необходимо написать программу, которая угадывает число за минимальное число попыток
@@ -32,7 +32,7 @@
 
 Учимся писать хороший код на Python
 
-:arrow_up:[к оглавлению] (https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md #Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md#к_оглавлению)
 
 ### 3. Этапы работы над проектом
 
@@ -50,13 +50,13 @@
 
 - выводы по метрикам
 
-:arrow_up:[к оглавлению] (https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md #Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md#к_оглавлению)
 
 ### 4. Результаты и выводы
 
 Алгоритм рабочий и показал результаты угадывания в 4 раза лучше, чем ставилось в условии задания(20 попыток). Созданный алгоритм показал угадывание числа в среднем за 5 попыток на выборке из 1000 случайных чисел.
 
-:arrow_up:[к оглавлению] (https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md #Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md#к_оглавлению)
 
 
 
