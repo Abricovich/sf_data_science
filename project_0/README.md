@@ -7,15 +7,9 @@
 [2. Какой кейс решаем?] (https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md #Какой кейс решаем)
 
 [3. Этапы работы над проектом] (https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md #Этапы работы над проектом)
-<<<<<<< HEAD
 
 [4. Результаты и Выводы] (https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md #Результаты и Выводы)
 
-
-=======
-
-[. Результаты и Выводы] (https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md #Результаты)
->>>>>>> dfbe24a7a2ed6e10208db64582ef6ac47d597a52
 
 
 ### 1. Описание проекта
@@ -40,7 +34,7 @@
 
 :arrow_up:[к оглавлению] (https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md #Оглавление)
 
-### 4. Этапы работы над проектом
+### 3. Этапы работы над проектом
 
 - создаём функцию *score_game*, генерирующую рандомно последовательность из 1000 чисел в диапазоне от 1 до 100
 - задаём алгоритм угадывания загаданного числа и прописываем его в функцию *random_predict*:
@@ -58,7 +52,7 @@
 
 :arrow_up:[к оглавлению] (https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md #Оглавление)
 
-### 5. Результаты и выводы
+### 4. Результаты и выводы
 
 Алгоритм рабочий и показал результаты угадывания в 4 раза лучше, чем ставилось в условии задания(20 попыток). Созданный алгоритм показал угадывание числа в среднем за 5 попыток на выборке из 1000 случайных чисел.
 
