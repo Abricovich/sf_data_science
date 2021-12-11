@@ -2,13 +2,13 @@
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md#описание_проекта)
+[1. Описание проекта](https://github.com/Abricovich/sf_data_science/blob/main/project_0/README.md#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 
-[2. Какой кейс решаем?](https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md#какой_кейс_решаем?)
+[2. Какой кейс решаем?](https://github.com/Abricovich/sf_data_science/blob/main/project_0/README.md#2-%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
 
-[3. Этапы работы над проектом](https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md#этапы_работы_над_проектом)
+[3. Этапы работы над проектом](https://github.com/Abricovich/sf_data_science/blob/main/project_0/README.md#3-%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)
 
-[4. Результаты и выводы](https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md#результаты_и_выводы)
+[4. Результаты и выводы](https://github.com/Abricovich/sf_data_science/blob/main/project_0/README.md#4-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B-%D0%B8-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
 
 
 
@@ -54,7 +54,7 @@
 
 ### 4. Результаты и выводы
 
-Алгоритм рабочий и показал результаты угадывания в 4 раза лучше, чем ставилось в условии задания(20 попыток). Созданный алгоритм показал угадывание числа в среднем за 5 попыток на выборке из 1000 случайных чисел.
+Алгоритм рабочий и показал результаты угадывания в 4 раза лучше, чем ставилось в условии задания(20 попыток). Созданный алгоритм интегрирован в программу [game_v2](https://github.com/Abricovich/sf_data_science/blob/main/project_0/game_v2.py), и показал угадывание числа в среднем за [5 попыток на выборке из 1000 случайных чисел](https://github.com/Abricovich/sf_data_science/blob/main/project_0/game.ipynb).
 
 :arrow_up: [к оглавлению](https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md#к_оглавлению)
 
