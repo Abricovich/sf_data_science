@@ -7,10 +7,15 @@
 [2. Какой кейс решаем?] (https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md #Какой кейс решаем)
 
 [3. Этапы работы над проектом] (https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md #Этапы работы над проектом)
+<<<<<<< HEAD
 
 [4. Результаты и Выводы] (https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md #Результаты и Выводы)
 
 
+=======
+
+[. Результаты и Выводы] (https://github.com/Abricovich/sf_data_science/tree/main/project_0/README.md #Результаты)
+>>>>>>> dfbe24a7a2ed6e10208db64582ef6ac47d597a52
 
 
 ### 1. Описание проекта
