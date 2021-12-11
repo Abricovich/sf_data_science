@@ -22,6 +22,7 @@ def random_predict(number: int=1) -> int:
         count+=1
         predict = round((max_number + min_number) / 2)  # предполагаемое число
         
+        
         if predict > number:
             max_number = predict
         elif predict < number:
